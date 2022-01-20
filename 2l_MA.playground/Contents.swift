@@ -93,4 +93,3 @@ while p < primeArray.last! {
 }
 
 print(primeArray)
-
